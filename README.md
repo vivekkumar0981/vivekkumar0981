@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar Singh</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer gif" width="500"/>
+</p>
+
 <h3 align="center">🚀 A top-performing full-stack mobile developer from India | Android (Kotlin, Jetpack Compose) | Spring Boot | 350+ DSA problems solved | Building scalable apps with clean architecture 💡📱💻</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkumar0981&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkumar0981" /> </p>
 
